@@ -1,7 +1,7 @@
 # steemstatus.github.io
 Guide : https://steemit.com/utopian-io/@koinbot/steem-status-steem-statistics-accounts-ranking-and-witness-info
 
-# About steem status
+# About steem status1
 For steem statistics, accounts ranking and witness information.
 
 * I want to make it as easy as possible.
